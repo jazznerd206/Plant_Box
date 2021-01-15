@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8bd21a4.chunk.css",
-    "main.js": "/static/js/main.b3ae2ffc.chunk.js",
-    "main.js.map": "/static/js/main.b3ae2ffc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b6eaaed4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b6eaaed4.js.map",
-    "static/js/2.37b20d8b.chunk.js": "/static/js/2.37b20d8b.chunk.js",
-    "static/js/2.37b20d8b.chunk.js.map": "/static/js/2.37b20d8b.chunk.js.map",
-    "static/js/3.9c1f1f2d.chunk.js": "/static/js/3.9c1f1f2d.chunk.js",
-    "static/js/3.9c1f1f2d.chunk.js.map": "/static/js/3.9c1f1f2d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b8bd21a4.chunk.css.map": "/static/css/main.b8bd21a4.chunk.css.map",
-    "static/js/2.37b20d8b.chunk.js.LICENSE.txt": "/static/js/2.37b20d8b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/gardens.9921f22e.jpg",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/app/static/css/main.3e5cc000.chunk.css",
+    "main.js": "/app/static/js/main.1fda38e2.chunk.js",
+    "main.js.map": "/app/static/js/main.1fda38e2.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.2efcff9b.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.2efcff9b.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/app/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.f49239e7.chunk.js": "/app/static/js/2.f49239e7.chunk.js",
+    "static/js/2.f49239e7.chunk.js.map": "/app/static/js/2.f49239e7.chunk.js.map",
+    "static/js/3.9a8afad2.chunk.js": "/app/static/js/3.9a8afad2.chunk.js",
+    "static/js/3.9a8afad2.chunk.js.map": "/app/static/js/3.9a8afad2.chunk.js.map",
+    "index.html": "/app/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/app/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.3e5cc000.chunk.css.map": "/app/static/css/main.3e5cc000.chunk.css.map",
+    "static/js/2.f49239e7.chunk.js.LICENSE.txt": "/app/static/js/2.f49239e7.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/app/static/media/plant3.258b2ec2.jpg",
+    "static/media/plant4.9293b7f2.jpg": "/app/static/media/plant4.9293b7f2.jpg",
+    "static/media/planter1.4cb06791.jpg": "/app/static/media/planter1.4cb06791.jpg",
+    "static/media/planter2.0f4edb5e.jpg": "/app/static/media/planter2.0f4edb5e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6eaaed4.js",
-    "static/js/2.37b20d8b.chunk.js",
-    "static/css/main.b8bd21a4.chunk.css",
-    "static/js/main.b3ae2ffc.chunk.js"
+    "static/js/runtime-main.2efcff9b.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.f49239e7.chunk.js",
+    "static/css/main.3e5cc000.chunk.css",
+    "static/js/main.1fda38e2.chunk.js"
   ]
 }
